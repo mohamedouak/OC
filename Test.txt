@@ -42,6 +42,13 @@ Vous souhaitez visiter <a href="test/page1.html" title="C'est par ici que ça se
     Vous souhaitez voir l'image dans sa taille d'origine ? Cliquez dessus !<br />
     <a href="Test/toubkal.jpg"><img src="Test/toubkal_mini.jpg" alt="Photo de montagne" title="Cliquez pour agrandir" /></a>
 </p>
+<p><h3>Il était une fois...</h3>
+<ol>
+    		<li>Analyse</li>
+    		<li>Planification</li>
+    		<li>Exécution</li>
+    	</ol>
+
     
     </body>
 </html>
