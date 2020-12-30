@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Test</title>
+    </head>
+
+    <body>
+    	<h1>Présentation</h1>
+    	<p>Je me présente : Ouakrim Mohamed.</br>
+    	Je sui né le 20 décembre 1986 dans un petit village du sud du Maroc.</p>
+    </p>Actuellement je vis dans en France dans le département du Nord.
+    Je viens de commencer une formation de développeur web avec l'organisme Openclassroom.</br>
+Vous souhaitez visiter <a href="test/page1.html" title="C'est par ici que ça se passe" target="blank">la page 1</a>
+<p>Ou bien venez plutôt voir <a href="test/page2.html" title="Ou bien par là">la page 2</a>
+ </p>
+<p><a href="mailto:abou.hind59@gmail.com">Ecrivez-moi ici</a></p>
+<p><a href="Mon fichier.zip">Télécharger le fichier 1</a></p>
+<p><a href="Test/Mon fichier 2.zip">Télécharger le fichier 2</a></p>
+<p><a href="Test/contenu/Mon fichier 3.zip">Télécharger le fichier 3</a></p>
+<p>Connaissez-vous cette plage ? Elle est magnifique !</p>
+
+<figure>
+    <img src="Test/magnifique_plage.png" alt="Seychelles" />
+    <figcaption>La magnifique plage</figcaption>
+</figure>
+    <p><h2>Qualités</h2>
+    	<ul>
+    		<li>Perfectionniste</li>
+    		<li>Attentif</li>
+    		<li>Rigoureux</li>
+    	</ul>
+    </p>
+    <p><h3>Comment je procède</h3>
+    	<ol>
+    		<li>Analyse</li>
+    		<li>Planification</li>
+    		<li>Exécution</li>
+    	</ol>
+    </p>
+   <p>
+    Vous souhaitez voir l'image dans sa taille d'origine ? Cliquez dessus !<br />
+    <a href="Test/toubkal.jpg"><img src="Test/toubkal_mini.jpg" alt="Photo de montagne" title="Cliquez pour agrandir" /></a>
+</p>
+    
+    </body>
+</html>
